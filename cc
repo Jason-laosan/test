@@ -5,3 +5,4 @@ add one line word`
 1 again
 4 :wq!
 
+:t
