@@ -6,4 +6,4 @@ add one line word`
 4 :wq!
 
 :t
-a2
+a2 trach
